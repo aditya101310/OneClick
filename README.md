@@ -1,2 +1,3 @@
 # OneClick
-You can share a picture on social media in just a single click.
+
+In this app you can share a picture on social media in just a single click.
